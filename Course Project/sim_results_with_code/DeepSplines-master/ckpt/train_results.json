@@ -1,0 +1,16 @@
+{
+    "twoDnet_deepBspline_lambda_1.0E-05": {
+        "latest_valid_acc": 97.867,
+        "latest_train_loss": {
+            "loss": 0.01,
+            "df_loss": 0.005,
+            "tv2_loss": 0.005
+        },
+        "latest_train_acc": 100.0,
+        "best_train_acc": 100.0,
+        "latest_valid_loss": {
+            "df_loss": 0.132
+        },
+        "best_valid_acc": 97.867
+    }
+}
